@@ -1,0 +1,25 @@
+
+{
+  "validUser": {
+    "username": "autouser",
+    "password": "AutoTest@123",
+    "firstName": "Auto",
+    "lastName": "Tester"
+  },
+  "invalidCredentials": {
+    "invalidUsername": "invaliduser123",
+    "invalidPassword": "wrongpassword"
+  },
+  "registrationData": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "validPassword": "TestPassword123",
+    "shortPassword": "123",
+    "mismatchedPassword": "DifferentPass123"
+  },
+  "errorMessages": {
+    "invalidLogin": "Invalid",
+    "usernameExists": "UsernameExistsException",
+    "registrationSuccess": "successfully"
+  }
+}
