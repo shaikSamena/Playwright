@@ -1,3 +1,6 @@
+Automated Result Screen
+<img width="1590" height="991" alt="Screenshot 2025-12-08 191427" src="https://github.com/user-attachments/assets/1e22af15-d5ac-46ec-9d23-e5fb3a46c72f" />
+
 # Buggy Cars Rating - Test Automation Suite
 
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
@@ -375,5 +378,4 @@ npx playwright install
 **Status**: Active Development
 
 ---
-Automated Result Screen
-<img width="1590" height="991" alt="Screenshot 2025-12-08 191427" src="https://github.com/user-attachments/assets/1e22af15-d5ac-46ec-9d23-e5fb3a46c72f" />
+
